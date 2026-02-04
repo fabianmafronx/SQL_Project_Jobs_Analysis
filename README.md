@@ -68,7 +68,7 @@ Empleadores diversos: Empresas como SmartAsset, Meta y AT&T se encuentran entre 
 
 Variedad de títulos de trabajo: Existe una gran diversidad de cargos, desde Analista de Datos hasta Director de Analítica, lo que refleja la variedad de roles y especializaciones dentro del análisis de datos.
 
-![Top Paying Skills](assets/1_top_paying_roles.png)
+![Top Paying Skills](recursos/1_top_paying_roles.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 
