@@ -247,7 +247,7 @@ Aquí está el desglose de las habilidades más óptimas para Analistas de Datos
 
 - **Tecnologías de bases de datos:** La demanda de habilidades en bases de datos tradicionales y NoSQL (Oracle, SQL Server, NoSQL) con salarios promedio que oscilan entre $97,786 y $104,534, refleja la necesidad constante de experiencia en almacenamiento, recuperación y gestión de datos.
 
-# Que aprendi
+# Que aprendí
 
 A lo largo de esta aventura, potencié al máximo mi kit de herramientas en SQL con auténtico poder:
 
